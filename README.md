@@ -662,7 +662,11 @@
 
 ### Cookbooks
 
-- [Practical Flutter](https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712) -，由[Frank Zammetti](https://github.com/fzammetti)提供。
+- [Practical Flutter](https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712) -，由[Frank Zammetti](https://github.com/fzammetti)提供
+
+### App
+- [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) - 一个不错的仿wechat App。
+
 
 ## 社区
 
